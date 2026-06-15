@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "https://cdn.jsdelivr.net/gh/dayyiq/yyy6y6y6@main/Build/game.data.unityweb",
+"asmCodeUrl": "https://cdn.jsdelivr.net/gh/dayyiq/yyy6y6y6@main/Build/game.asm.code.unityweb",
+"asmMemoryUrl": "https://cdn.jsdelivr.net/gh/dayyiq/yyy6y6y6@main/Build/game.asm.memory.unityweb",
+"asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/dayyiq/yyy6y6y6@main/Build/game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
